@@ -1,84 +1,87 @@
 # Hotel Management System
 
-A console-based Hotel Management System developed in Java using Object-Oriented Programming (OOP) concepts and File Handling.
+This is a Java-based Hotel Management System project developed as part of my Java internship task. The project is created using core Java concepts, Object-Oriented Programming (OOP), and File Handling.
+
+The system allows users to view rooms, book rooms, cancel bookings, and manage hotel reservation details through a simple console-based interface.
+
+---
 
 ## Features
-- User Login Authentication
-- View Available Rooms
-- Room Categories:
-  - Standard
-  - Deluxe
-  - Suite
-- Room Booking System
-- Booking Cancellation
-- Payment Simulation
-- Date-wise Booking
-- Booking Details Management
-- Total Booking Counter
-- File Handling using Java File I/O
+
+* Login Authentication System
+* View Available Rooms
+* Different Room Categories
+
+  * Standard
+  * Deluxe
+  * Suite
+* Room Booking Functionality
+* Booking Cancellation
+* Payment Simulation
+* Date-wise Booking
+* View Booking Details
+* Total Booking Counter
+* Booking Data Stored Using File Handling
+
+---
 
 ## Technologies Used
-- Java
-- OOP Concepts
-- File Handling
-- ArrayList
-- Eclipse IDE
 
-## Project Structure
-```text
-HotelReservationSystem.java
-```
+* Java
+* OOP Concepts
+* File Handling
+* ArrayList
+* Eclipse IDE
 
-## How to Run
-1. Open Eclipse IDE
-2. Create a Java Project
-3. Create package:
-```text
-hotelreservation
-```
-4. Create file:
-```text
+---
+
+## Project File
+
 HotelReservationSystem.java
-```
-5. Paste the code
-6. Run the program
+
+---
+
+## How the Project Works
+
+1. User logs into the system
+2. Available rooms are displayed
+3. User can book a room by entering details
+4. Payment is simulated
+5. Booking details are saved in a text file
+6. User can also cancel bookings and view all booking records
+
+---
 
 ## Default Login Credentials
-```text
+
 Username: admin
+
 Password: 1234
-```
 
-## Sample Functionalities
-- Search available rooms
-- Book rooms
-- Cancel bookings
-- View booking details
-- Save bookings to file
-- View total bookings
+---
 
-## File Handling
-All booking details are automatically saved in:
-```text
-bookings.txt
-```
+## Concepts Used in This Project
 
-## Learning Concepts Used
-- Classes and Objects
-- Constructors
-- Encapsulation
-- ArrayList
-- Method Overriding
-- Conditional Statements
-- Loops
-- File Handling in Java
+* Classes and Objects
+* Constructors
+* Encapsulation
+* Loops and Conditional Statements
+* Method Overriding
+* ArrayList Collection
+* Java File Handling
+
+---
 
 ## Future Improvements
-- GUI using Java Swing
-- MySQL Database Integration
-- Admin Dashboard
-- Online Payment Gateway
-- Customer Registration System
+
+* GUI Version using Java Swing
+* Database Integration using MySQL
+* Online Payment Integration
+* Customer Registration System
+* Admin Dashboard
+
+---
 
 ## Author
-Your Name
+
+Developed by Soni Chaudhary
